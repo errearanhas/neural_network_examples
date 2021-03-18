@@ -5,7 +5,7 @@ Reference:
 [_Deep Learning with Python._](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
 Chollet, Francois. 2017
 
-### house-prices-regression
+* ### house-prices-regression
 
 Predicting house prices: a regression example with neural network.
 
@@ -15,8 +15,7 @@ The goal is to predict median house prices, given data points with features as c
 The dataset has 506 data points (404 training samples and 102 test samples), and each feature has a different scale.
 
 
-
-### imdb-binary-classification
+* ### imdb-binary-classification
 
 Binary classification of [IMDB](https://www.imdb.com) movie reviews with Neural Networks.
 
@@ -27,8 +26,7 @@ In this example, I am using Keras/TensorFlow to classify movie reviews as positi
 The IMDB dataset is a set of 50k polarized reviews from the Internet Movie Database (IMDB), split into 25k reviews for training and 25k reviews for testing, and each set consisting of 50% negative and 50% positive reviews.
 
 
-
-### reuters-newswire-multiclassification
+* ### reuters-newswire-multiclassification
 
 Single label, multi-class classification of [Reuters Newswire Keras database](https://keras.io/api/datasets/reuters/), using a Deep Neural Network.
 
