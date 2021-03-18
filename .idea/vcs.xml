@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/house-prices-regression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/imdb-binary-classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reuters-newswire-multiclassification" vcs="Git" />
+  </component>
+</project>
